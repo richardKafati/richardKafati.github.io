@@ -1,0 +1,13 @@
+/* your styles go here */
+.navbar-brand {
+  width: 225px;
+}
+
+.vplogo {
+  height: 43px;
+}
+
+.hero-image {
+  padding-left: 30px;
+  padding-bottom: 180px;
+}
